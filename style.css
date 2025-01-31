@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background: url('https://source.unsplash.com/1600x900/?security,cctv') no-repeat center center/cover;
+    color: white;
+    padding: 100px 20px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #ff6600;
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+.service {
+    display: inline-block;
+    margin: 20px;
+}
+
+.service i {
+    font-size: 40px;
+    color: #ff6600;
+}
+
+form input, form textarea {
+    width: 80%;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+button {
+    background: #ff6600;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
